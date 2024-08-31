@@ -15,4 +15,4 @@ vim.opt.termguicolors = true
 
 vim.opt.scrolloff = 8 -- keeps lines on bottom when scroling
 
-vim.opt.shiftwdith = 4 -- tab = 4 spaces
+vim.opt.shiftwidth = 4 -- tab = 4 spaces
