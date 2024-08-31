@@ -1,2 +1,1 @@
 require("sid")
-print("hello")
