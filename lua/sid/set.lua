@@ -6,6 +6,8 @@ vim.api.nvim_create_autocmd("User", {
     end,
 })
 
+vim.api.nvim_set_option("clipboard","unnamed")
+
 vim.opt.nu = true -- line numbers
 
 vim.opt.hlsearch = false -- turns off annoying select
